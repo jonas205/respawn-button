@@ -1,0 +1,9 @@
+{
+  "name": "respawn-button",
+  "version": "0.1.0",
+  "title": "Respawn Button",
+  "author": "J000n",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds a Button to respawn the current player. Usefull if stuck on some other surface."
+}
